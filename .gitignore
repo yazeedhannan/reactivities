@@ -1,3 +1,7 @@
+.idea
+bin
+obj
+
 # Logs
 logs
 *.log
